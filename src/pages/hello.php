@@ -33,7 +33,7 @@
                     <div class="text-center">
                         <img src="https://i.ibb.co/qrdP8qK/icone.png" class="mb-4" alt="icone">
                         <h2 class="text-center mb-5">Olá <strong class="text-warning"><?php echo htmlspecialchars($name, ENT_QUOTES, 'UTF-8')?></strong>, sua idade é <strong class="text-warning"><?php echo htmlspecialchars($age, ENT_QUOTES, 'UTF-8')?></strong></h2>
-                        <a id="backLink" href = "http://localhost:4321/home" class="btn btn-danger col-10"  type="submit">Voltar</a>       
+                        <a id="backLink" href = "http://localhost:4321" class="btn btn-danger col-10"  type="submit">Voltar</a>       
                     </div>
                 </div>
             </div>

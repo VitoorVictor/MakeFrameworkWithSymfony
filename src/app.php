@@ -29,7 +29,7 @@ $routes->add(
 $routes->add(
     'home',
     new Routing\Route(
-        'home'
+        ''
     )
 );
 

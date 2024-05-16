@@ -15,7 +15,7 @@ Para rodar este projeto, siga os passos abaixo:
 2. **Acesse o Projeto no Navegador:**
    Após iniciar o servidor, abra seu navegador da web e acesse o seguinte URL:
    ```bash
-   http://localhost:4321/home
+   http://localhost:4321
    ```
    Isso abrirá a página inicial do projeto.
 
